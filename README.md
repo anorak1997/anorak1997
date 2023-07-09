@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anorak1997
 - 👀 I’m interested in learning and exploring new technologies
-- 🌱 I’m currently learning Java 
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on Java and C++ related projects
 - 📫 You can mail me at siddharthadubey.1997@gmail.com
 - I am a Master's student studying Automation and Robotics
