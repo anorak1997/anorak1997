@@ -1,6 +1,6 @@
 - 👋 Hi
 - 👀 I’m interested in learning and exploring new technologies
-- 🌱 I’m currently learning C++ & Rust.
+- 🌱 I’m currently learning C++ & Java.
 - 💞️ I’m looking to collaborate on Java and C++ and Rust related projects
 - 📫 You can mail me at siddharthadubey.1997@gmail.com
 
