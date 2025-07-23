@@ -1,6 +1,6 @@
 - 👋 Hi
 - 👀 I’m interested in learning and exploring new technologies
-- 🌱 I’m currently learning C++ & Java.
+- 🌱 I’m currently learning C++ & Python, ROS, ROS2 and backend technologies .
 - 💞️ I’m looking to collaborate on Java and C++  related projects
 - 📫 You can mail me at siddharthadubey.1997@gmail.com
 
